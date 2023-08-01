@@ -1,0 +1,164 @@
+{
+  "Header": {
+    "title": "We are Hiring",
+    "paragraph": "Empowering Career Growth: Your Personalized Recruitment Partner for Success"
+  },
+
+  "About": {
+    "paragraph": "Welcome to Recruitment Company, a leading recruitment partner dedicated to fostering professional growth and career success. We specialize in connecting exceptional talent with top-notch opportunities across various industries. Our mission is to empower individuals by providing personalized recruitment solutions that match their skills, aspirations, and ambitions. With a passionate team of recruitment experts, we strive to create meaningful connections between candidates and employers, driving innovation and progress in the job market. Join us on your journey towards achieving your career goals and unleash your full potential!",
+    "Why": [
+      "Expert Guidance: Benefit from our experienced team of recruitment specialists who are committed to understanding your unique talents and career objectives.",
+      "Extensive Network: Access a vast network of esteemed employers, opening doors to exciting job opportunities.",
+      "Personalized Approach: We tailor our services to suit your individual needs, ensuring a seamless recruitment experience.",
+      "Continuous Support: Receive ongoing support throughout your job search journey, from application to placement."
+    ],
+    "Why2": [
+      "Innovative Solutions: Embrace cutting-edge recruitment strategies and technologies to stay ahead in a dynamic job market.",
+      "Industry Insights: Gain valuable insights into market trends and career pathways, empowering informed decisions.",
+      "Collaborative Environment: Partner with a team that values collaboration, respect, and open communication.",
+      "Confidentiality & Trust: Rest assured that your information is handled with utmost confidentiality and trust."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-users",
+      "name": "Talent Acquisition",
+      "text": "Our expert team specializes in talent acquisition, connecting businesses with the right candidates for their specific needs. From identifying top talent to conducting in-depth assessments, we streamline the hiring process for seamless placements."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Career Counseling",
+      "text": "We offer personalized career counseling sessions to help individuals chart their professional path. Our career experts provide guidance, mentorship, and actionable insights to align career aspirations with the right opportunities."
+    },
+    {
+      "icon": "fa fa-handshake-alt",
+      "name": "Employer-Seeker Matching",
+      "text": "Matching the right employers with the right candidates is our forte. Using innovative technology and a deep understanding of industry needs, we ensure employers find the perfect fit for their teams and seekers land their dream roles."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "HR Solutions",
+      "text": "Our comprehensive HR solutions cater to businesses of all sizes. We provide HR consulting, workforce planning, training, and talent management services to optimize organizational performance."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Career Progression",
+      "text": "At Recruitment Company, we believe in long-term success. Our career progression services focus on mapping career paths, setting goals, and supporting professionals throughout their journey to achieve excellence."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Skill Development",
+      "text": "Investing in skill development is crucial for career growth. We offer training programs and workshops to enhance the skills of candidates, empowering them to excel in their chosen fields."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Contact": {
+    "address": "Delhi, Delhi, India ",
+    "phone": "+91 123 456 9870",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-user",
+      "title": "Top Talent",
+      "text": "Access top talent from various industries and fields. We provide you with a pool of qualified candidates to choose from, ensuring the right fit for your company's needs."
+    },
+    {
+      "icon": "fa fa-suitcase",
+      "title": "Professional Network",
+      "text": "Leverage our extensive professional network to connect with skilled candidates. Our network spans diverse industries, giving you access to candidates with a wide range of expertise."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Improved Performance",
+      "text": "Improve your company's performance with the right hires. Our recruitment process focuses on identifying candidates with the potential to drive success and growth in your organization."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Tailored Solutions",
+      "text": "Get tailored hiring solutions based on your unique requirements. We understand that each company is different, and our services are designed to meet your specific hiring goals."
+    }
+  ]
+  
+}
